@@ -1,0 +1,8 @@
+name: PrisonEnchants
+version: '${version}'
+main: me.hexye.prisonenchants.PrisonEnchants
+author: Hexye
+commands:
+    prisonenchants:
+        description: PrisonEnchants main Command
+api-version: '1.20'
